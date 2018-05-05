@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-
+/ApiKey_Speech.json
 # testing
 /coverage
 
